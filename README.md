@@ -1,6 +1,7 @@
 <h1 align="center">Audio</h1>
 
-> ### Todo: Read [this fastai thread](https://forums.fast.ai/t/deep-learning-with-audio-thread/38123)
+> ### Read [wav2letter anywhere](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
+> ### Read [this fastai thread](https://forums.fast.ai/t/deep-learning-with-audio-thread/38123)
 
 ## Audio recognition 🎤
 - [Audio classification with fast.ai](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) (CNN)
@@ -8,6 +9,7 @@
   - **CTC**
   - **RNN-T**: RNN-Transducer, 2012 [paper](https://arxiv.org/abs/1211.3711)
   - **LAS**:  Listen, Attend and Spell. Attention-based, sequence-to-sequence model. 2015 [paper](https://arxiv.org/abs/1508.01211)
+ 
 
 ## Audio generation 🔊
 - [Speech generation guide](https://www.kdnuggets.com/2019/09/2019-guide-speech-synthesis-deep-learning.html)
